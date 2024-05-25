@@ -9,7 +9,7 @@ Zheng Liu
 <br>
 <br>
 <font size="4">
-Associate Research Professor 222,
+Associate Professor,
 </font>
 <br>
 <font size="4">
