@@ -87,7 +87,7 @@ Program Committee
 <br>
 &nbsp;***Pattern Recognition***, 2024.
 <br>
-&nbsp;**[[paper]]()
+&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/)
 [[code]](https://github.com/xiluo-cug/TCFAP-Net)**
 <div style="clear:both"></div>
 <br>
