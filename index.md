@@ -81,6 +81,18 @@ Program Committee
 # Selected Publications [[Google Scholar]](https://scholar.google.com/citations?user=_jtNrOUAAAAJ&hl=zh-CN) [[Researchgate]](https://www.researchgate.net/profile/Zheng_Liu52)
 
 <img style="float:left;" width="400" src="images/paper-26.jpg"> 
+&nbsp;[27] **TCFAP-Net: Transformer-based Cross-feature Fusion and Adaptive Perception Network for large-scale point cloud semantic segmentation**
+<br>
+&nbsp; Jianjun Zhang, Zhipeng Jiang, Qinjun Qiu, **Zheng Liu<sup>★</sup>**
+<br>
+&nbsp;***Pattern Recognition***, 2024.
+<br>
+&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(JAG24)Accurate and complete line segment extraction for large-scale point clouds.pdf)
+[[exe]](https://github.com/simpsonpeng/Feature_detection_and_Line_segment_extraction)**
+<div style="clear:both"></div>
+<br>
+
+<img style="float:left;" width="400" src="images/paper-26.jpg"> 
 &nbsp;[26] **Accurate and complete line segment extraction for large-scale point clouds**
 <br>
 &nbsp; Xiaopeng Xin, Wei Huang, Saishang Zhong, Ming Zhang, **Zheng Liu<sup>★</sup>**, Zhong Xie
