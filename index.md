@@ -80,7 +80,7 @@ Program Committee
 
 # Selected Publications [[Google Scholar]](https://scholar.google.com/citations?user=_jtNrOUAAAAJ&hl=zh-CN) [[Researchgate]](https://www.researchgate.net/profile/Zheng_Liu52)
 
-<img style="float:left;" width="400" src="images/paper-26.jpg"> 
+<img style="float:left;" width="400" src="images/paper-27.jpg"> 
 &nbsp;[27] **TCFAP-Net: Transformer-based Cross-feature Fusion and Adaptive Perception Network for large-scale point cloud semantic segmentation**
 <br>
 &nbsp; Jianjun Zhang, Zhipeng Jiang, Qinjun Qiu, **Zheng Liu<sup>★</sup>**
