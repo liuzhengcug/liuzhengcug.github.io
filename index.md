@@ -88,7 +88,7 @@ Program Committee
 &nbsp;***Pattern Recognition***, 2024.
 <br>
 &nbsp;**
-[[code]]([https://github.com/LabZhengLiu/PCDNF](https://github.com/xiluo-cug/TCFAP-Net))**
+[[code]](https://github.com/xiluo-cug/TCFAP-Net)**
 <div style="clear:both"></div>
 <br>
 
