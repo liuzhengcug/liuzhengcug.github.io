@@ -87,7 +87,7 @@ Program Committee
 <br>
 &nbsp;***Pattern Recognition***, 2024.
 <br>
-&nbsp;**[[paper]](https://liuzhengcug.github.io/papers/(PR24)TCFAP-Net - Transformer-based Cross-feature Fusion and Adaptive Perception Network for large-scale point cloud semantic segmentation.pdf)
+&nbsp;**[[paper]](https://liuzhengcug.github.io/papers/(PR24)TCFAP-Net.pdf)
 [[code]](https://github.com/xiluo-cug/TCFAP-Net)**
 <div style="clear:both"></div>
 <br>
