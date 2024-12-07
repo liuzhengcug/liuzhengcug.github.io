@@ -83,7 +83,7 @@ Program Committee
 <img style="float:left;" width="400" src="images/paper-28.jpg"> 
 &nbsp;[27] **PyramidPCD: A Novel Pyramid Network for Point Cloud Denoising**
 <br>
-&nbsp; Zheng Liu, Weijie Zhou, Chuchen Guo, **Qinjun Qiu<sup>★</sup>**, Zhong Xie
+&nbsp; **Zheng Liu**, Weijie Zhou, Chuchen Guo, Qinjun Qiu, Zhong Xie
 <br>
 &nbsp;***Pattern Recognition***, 2025.
 <br>
