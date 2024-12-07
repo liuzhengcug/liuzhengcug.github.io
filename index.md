@@ -80,7 +80,7 @@ Program Committee
 
 # Selected Publications [[Google Scholar]](https://scholar.google.com/citations?user=_jtNrOUAAAAJ&hl=zh-CN) [[Researchgate]](https://www.researchgate.net/profile/Zheng_Liu52)
 
-<img style="float:left;" width="400" src="images/paper-27.jpg"> 
+<img style="float:left;" width="400" src="images/paper-28.jpg"> 
 &nbsp;[27] **PyramidPCD:Anovelpyramidnetworkforpointclouddenoising**
 <br>
 &nbsp; Zheng Liu, Weijie Zhou, Chuchen Guo, **Qinjun Qiu<sup>★</sup>**, Zhong Xie
