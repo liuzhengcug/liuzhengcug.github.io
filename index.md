@@ -81,6 +81,18 @@ Program Committee
 # Selected Publications [[Google Scholar]](https://scholar.google.com/citations?user=_jtNrOUAAAAJ&hl=zh-CN) [[Researchgate]](https://www.researchgate.net/profile/Zheng_Liu52)
 
 <img style="float:left;" width="400" src="images/paper-27.jpg"> 
+&nbsp;[27] **PyramidPCD:Anovelpyramidnetworkforpointclouddenoising**
+<br>
+&nbsp; Zheng Liu, Weijie Zhou, Chuchen Guo, **Qinjun Qiu<sup>★</sup>**, Zhong Xie
+<br>
+&nbsp;***Pattern Recognition***, 2025.
+<br>
+&nbsp;**[[paper]](https://liuzhengcug.github.io/papers/(PR25)PyramidPCD.pdf)
+[[code]](https://github.com/ForestNobear/PyramidPCD)**
+<div style="clear:both"></div>
+<br>
+
+<img style="float:left;" width="400" src="images/paper-27.jpg"> 
 &nbsp;[27] **TCFAP-Net: Transformer-based Cross-feature Fusion and Adaptive Perception Network for large-scale point cloud semantic segmentation**
 <br>
 &nbsp; Jianjun Zhang, Zhipeng Jiang, Qinjun Qiu, **Zheng Liu<sup>★</sup>**
