@@ -28,15 +28,10 @@ China University of Geosciences (Wuhan),
 <div style="clear:both"></div>
 
 # Latest News
-- <font size="4" color="red">2023.07: One paper is accepted by IEEE TVCG, and another is accepted by Computer-Aided Design.</font>
+- <font size="4" color="red">2024.12: One paper is accepted by AAAI.</font>
+- <font size="4" color="red">2023.07: One paper is accepted by IEEE TVCG.</font>
 - <font size="4" color="red">2023.04: One paper is accepted by CVPR.</font>
-- <font size="4" color="red">2022.06: One paper is accepted by Computer & Graphics.</font>
-- <font size="4" color="red">2021.11: One paper is accepted by Remote Sensing.</font>
-- <font size="4" color="red">2021.06: One paper is accepted by IEEE TVCG, and another is conditionally accepted by Computer-Aided Design (SPM 2021).</font>
-- <font size="4" color="red">2021.01: One paper is accepted by Sensors.</font>
-- <font size="4" color="red">2020.12: One paper is accepted by Journal of Computer-Aided Design & Computer Graphics.</font>
-- <font size="4" color="red">2020.11: One paper is accepted by Remote Sensing Letters.</font>
-- <font size="4" color="red">2020.04: Two papers are accepted by Computer-Aided Design (SPM 2020).</font>
+- <font size="4" color="red">2021.06: One paper is accepted by IEEE TVCG.</font>
 
 # Research Interests
 <font size="4">
@@ -75,10 +70,22 @@ Program Committee
 </strong>
 </font>
 <font size="4">
-: Chinagraph 2020; Geometric Modeling and Processing (GMP) 2021,2022,2023; GDC 2021,2022,2023;
+: Chinagraph 2020; Geometric Modeling and Processing (GMP) 2021-24; GDC 2021-24; PG 2024.
 </font>
 
 # Selected Publications [[Google Scholar]](https://scholar.google.com/citations?user=_jtNrOUAAAAJ&hl=zh-CN) [[Researchgate]](https://www.researchgate.net/profile/Zheng_Liu52)
+
+<img style="float:left;" width="400" src="images/paper-29.jpg"> 
+&nbsp;[28] **You Should Learn to Stop Denoising on Point Clouds in Advance**
+<br>
+&nbsp;  Chuchen Guo, Weijie Zhou, **Zheng Liu<sup>★</sup>**, Ying He
+<br>
+&nbsp;***AAAI***, 2025.
+<br>
+&nbsp;**[[paper]](https://liuzhengcug.github.io/papers/(AAAI25)ASDN.pdf)
+[[code]](https://github.com/git-guocc/ASDN)**
+<div style="clear:both"></div>
+<br>
 
 <img style="float:left;" width="400" src="images/paper-28.jpg"> 
 &nbsp;[28] **PyramidPCD: A Novel Pyramid Network for Point Cloud Denoising**
