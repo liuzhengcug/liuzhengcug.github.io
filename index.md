@@ -76,7 +76,7 @@ Program Committee
 # Selected Publications [[Google Scholar]](https://scholar.google.com/citations?user=_jtNrOUAAAAJ&hl=zh-CN) [[Researchgate]](https://www.researchgate.net/profile/Zheng_Liu52)
 
 <img style="float:left;" width="400" src="images/paper-29.jpg"> 
-&nbsp;[28] **You Should Learn to Stop Denoising on Point Clouds in Advance**
+&nbsp;[29] **You Should Learn to Stop Denoising on Point Clouds in Advance**
 <br>
 &nbsp;  Chuchen Guo, Weijie Zhou, **Zheng Liu<sup>★</sup>**, Ying He
 <br>
