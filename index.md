@@ -79,8 +79,7 @@ Program Committee
 <br>
 &nbsp;***IEEE Transactions on Multimedia***, 2025.
 <br>
-&nbsp;**[[paper]](https://liuzhengcug.github.io/papers/Unsupervised Point Cloud Reconstruction via Recurrent Multi-step Moving Strategy.pdf)
-[[code]](https://github.com/xiluocug/MSMS)**
+&nbsp;**[[paper]](https://liuzhengcug.github.io/papers/Unsupervised Point Cloud Reconstruction via Recurrent Multi-step Moving Strategy.pdf)**
 <div style="clear:both"></div>
 <br>
 
