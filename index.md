@@ -72,6 +72,18 @@ Program Committee
 # Selected Publications [[Google Scholar]](https://scholar.google.com/citations?user=_jtNrOUAAAAJ&hl=zh-CN) [[Researchgate]](https://www.researchgate.net/profile/Zheng_Liu52)
 
 
+<img style="float:left;" width="400" src="images/paper-31.jpg"> 
+&nbsp;[31] **Unsupervised Point Cloud Reconstruction via Recurrent Multi-step Moving Strategy**
+<br>
+&nbsp;  **Zheng Liu**, Jianjun Zhang, Ming Zhang, Runze Ke, Chengcheng Yu, Ligang Liu
+<br>
+&nbsp;***IEEE Transactions on Multimedia***, 2025.
+<br>
+&nbsp;**[[paper]](https://liuzhengcug.github.io/papers/Unsupervised Point Cloud Reconstruction via Recurrent Multi-step Moving Strategy.pdf)
+[[code]](https://github.com/xiluocug/MSMS)**
+<div style="clear:both"></div>
+<br>
+
 <img style="float:left;" width="400" src="images/paper-30.jpg"> 
 &nbsp;[30] **Deterministic Point Cloud Diffusion for Denoising**
 <br>
