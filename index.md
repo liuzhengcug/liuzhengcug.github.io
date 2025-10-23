@@ -194,7 +194,7 @@ Program Committee
 <br>
 &nbsp;Ling Zhang, Yinghao He, Qing Zhang, **Zheng Liu**, Xiaolong Zhang, Chunxia Xiao
 <br>
-&nbsp;***Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)***, 2023.
+&nbsp;***CVPR***, 2023.
 <br>
 &nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(CVPR23)Document Image Shadow Removal Guided by Color-Aware Background.pdf) 
    [[bib]](bibs/)**
