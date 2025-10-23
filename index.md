@@ -73,7 +73,7 @@ Program Committee
 
 
 <img style="float:left;" width="400" src="images/paper-31.jpg"> 
-&nbsp;[10] **Unsupervised Point Cloud Reconstruction via Recurrent Multi-step Moving Strategy**
+&nbsp;**Unsupervised Point Cloud Reconstruction via Recurrent Multi-step Moving Strategy**
 <br>
 &nbsp;  **Zheng Liu**, Jianjun Zhang, Ming Zhang, Runze Ke, Chengcheng Yu, Ligang Liu
 <br>
@@ -82,7 +82,7 @@ Program Committee
 <br>
 
 <img style="float:left;" width="400" src="images/paper-30.jpg"> 
-&nbsp;[30] **Deterministic Point Cloud Diffusion for Denoising**
+&nbsp;**Deterministic Point Cloud Diffusion for Denoising**
 <br>
 &nbsp;  **Zheng Liu**, Zhenyu Huang, Maodong Pan, Ying He
 <br>
@@ -94,7 +94,7 @@ Program Committee
 <br>
 
 <img style="float:left;" width="400" src="images/paper-29.jpg"> 
-&nbsp;[29] **You Should Learn to Stop Denoising on Point Clouds in Advance**
+&nbsp;**You Should Learn to Stop Denoising on Point Clouds in Advance**
 <br>
 &nbsp;  Chuchen Guo, Weijie Zhou, **Zheng Liu<sup>★</sup>**, Ying He
 <br>
@@ -106,7 +106,7 @@ Program Committee
 <br>
 
 <img style="float:left;" width="400" src="images/paper-28.jpg"> 
-&nbsp;[28] **PyramidPCD: A Novel Pyramid Network for Point Cloud Denoising**
+&nbsp;**PyramidPCD: A Novel Pyramid Network for Point Cloud Denoising**
 <br>
 &nbsp; **Zheng Liu**, Weijie Zhou, Chuchen Guo, Qinjun Qiu, Zhong Xie
 <br>
@@ -118,7 +118,7 @@ Program Committee
 <br>
 
 <img style="float:left;" width="400" src="images/paper-27.jpg"> 
-&nbsp;[27] **TCFAP-Net: Transformer-based Cross-feature Fusion and Adaptive Perception Network for large-scale point cloud semantic segmentation**
+&nbsp;**TCFAP-Net: Transformer-based Cross-feature Fusion and Adaptive Perception Network for large-scale point cloud semantic segmentation**
 <br>
 &nbsp; Jianjun Zhang, Zhipeng Jiang, Qinjun Qiu, **Zheng Liu<sup>★</sup>**
 <br>
@@ -130,7 +130,7 @@ Program Committee
 <br>
 
 <img style="float:left;" width="400" src="images/paper-26.jpg"> 
-&nbsp;[26] **Accurate and complete line segment extraction for large-scale point clouds**
+&nbsp;**Accurate and complete line segment extraction for large-scale point clouds**
 <br>
 &nbsp; Xiaopeng Xin, Wei Huang, Saishang Zhong, Ming Zhang, **Zheng Liu<sup>★</sup>**, Zhong Xie
 <br>
@@ -141,6 +141,7 @@ Program Committee
 <div style="clear:both"></div>
 <br>
 
+<!--
 <img style="float:left;" width="400" src="images/paper-25.jpg"> 
 &nbsp;[25] **BEMF-Net: Semantic Segmentation of Large-Scale Point Clouds via Bilateral Neighbor Enhancement and Multi-Scale Fusion**
 <br>
@@ -162,9 +163,10 @@ Program Committee
 &nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(CGF23)Facial Image Shadow Removal via Graph-based Feature Fusion.pdf)**
 <div style="clear:both"></div>
 <br>
+-->
 
 <img style="float:left;" width="400" src="images/paper-23.jpg"> 
-&nbsp;[23] **Robust and Accurate Feature Detection on Point Clouds**
+&nbsp;**Robust and Accurate Feature Detection on Point Clouds**
 <br>
 &nbsp;**Zheng Liu**, Xiaopeng Xin, Zheng Xu, Weijie Zhou, Chunxue Wang, Renjie Chen<sup>★</sup>, Ying He
 <br>
@@ -176,7 +178,7 @@ Program Committee
 <br>
 
 <img style="float:left;" width="400" src="images/paper-22-tvcg.jpg"> 
-&nbsp;[22] **PCDNF: Revisiting Learning-based Point Cloud Denoising via Joint Normal Filtering**
+&nbsp;**PCDNF: Revisiting Learning-based Point Cloud Denoising via Joint Normal Filtering**
 <br>
 &nbsp;**Zheng Liu**, Yaowu Zhao, Sijing Zhan, Yuanyuan Liu, Renjie Chen<sup>★</sup>, Ying He
 <br>
@@ -188,7 +190,7 @@ Program Committee
 <br>
 
 <img style="float:left;" width="400" src="images/paper-21.jpg"> 
-&nbsp;[21] **Document Image Shadow Removal Guided by Color-Aware Background**
+&nbsp;**Document Image Shadow Removal Guided by Color-Aware Background**
 <br>
 &nbsp;Ling Zhang, Yinghao He, Qing Zhang, **Zheng Liu**, Xiaolong Zhang, Chunxia Xiao
 <br>
@@ -199,6 +201,7 @@ Program Committee
 <div style="clear:both"></div>
 <br>
 
+<!--
 <img style="float:left;" width="400" src="https://LabZhengLiu.github.io/images/20.Robust Rigid Point Cloud Registration via RGB-D Images.jpg"> 
 &nbsp;[20] **一种鲁棒的顾及RGB-D图像的刚性点云配准方法**
 <br>
@@ -210,7 +213,6 @@ Program Committee
  [[bib]](bibs/)**
 <div style="clear:both"></div>
 <br>
-
 
 <img style="float:left;" width="400" src="https://LabZhengLiu.github.io/images/19.Feature-preserving Mumford-Shah mesh processing via nonsmooth nonconvex regularization.jpg"> 
 &nbsp;[19] **Feature-preserving Mumford-Shah mesh processing via nonsmooth nonconvex regularization**
@@ -224,7 +226,6 @@ Program Committee
 <div style="clear:both"></div>
 <br>
 
-
 <img style="float:left;" width="400" src="https://LabZhengLiu.github.io/images/paper-18.jpg"> 
 &nbsp;[18] **A Robust Rigid Point Cloud Registration Method Considering RGB-D Images**
 <br>
@@ -236,9 +237,10 @@ Program Committee
    [[bib]](bibs/Zhong21ARobust.md)**
 <div style="clear:both"></div>
 <br>
+-->
 
 <img style="float:left;" width="400" src="https://LabZhengLiu.github.io/images/paper-17.png"> 
-&nbsp;[17] **Shape-aware Mesh Normal Filtering**
+&nbsp;**Shape-aware Mesh Normal Filtering**
 <br>
 &nbsp;Saishang Zhong, Zhenzhen Song, **Zheng Liu<sup>★</sup>**, Zhong Xie, Jianguo Chen, Lu Liu, Renjie Chen
 <br>
@@ -250,7 +252,7 @@ Program Committee
 <br>
 
 <img style="float:left;" width="400" src="https://LabZhengLiu.github.io/images/paper-16.png"> 
-&nbsp;[16] **Mesh Total Generalized Variation for Denoising**
+&nbsp;**Mesh Total Generalized Variation for Denoising**
 <br>
 &nbsp;**Zheng Liu**, Yanlei Li, Weina Wang, Ligang Liu, Renjie Chen<sup>★</sup>
 <br>
@@ -264,6 +266,7 @@ Program Committee
 <div style="clear:both"></div>
 <br>
 
+<!--
 <img style="float:left;" width="400" src="https://LabZhengLiu.github.io/images/Paper-15.png"> 
 &nbsp;[15] **Mesh Denoising via Adaptive Consistent Neighborhood**
 <br>
@@ -288,9 +291,10 @@ Program Committee
    [[bib]](bibs/Guo2020ANovel.md)**
 <div style="clear:both"></div>
 <br>
+-->
 
 <img style="float:left;" width="400" src="https://LabZhengLiu.github.io/images/Paper-13.png"> 
-&nbsp;[13] **Mesh Denoising via a Novel Mumford-Shah Framework**
+&nbsp;**Mesh Denoising via a Novel Mumford-Shah Framework**
 <br>
 &nbsp;**Zheng Liu**, Weina Wang, Saishang Zhong, Bohong Zeng, Jinqin Liu, Weiming &nbsp;Wang
 <br>
@@ -303,7 +307,7 @@ Program Committee
 <br>
 
 <img style="float:left;" width="400" src="https://LabZhengLiu.github.io/images/Paper-12.png"> 
-&nbsp;[12] **A Feature-preserving Framework for Point Cloud Denoising**
+&nbsp;**A Feature-preserving Framework for Point Cloud Denoising**
 <br>
 &nbsp;**Zheng Liu**, Xiaowen Xiao, Saishang Zhong, Weina Wang, Yanlei Li, Ling &nbsp;Zhang, Zhong Xie
 <br>
@@ -315,6 +319,7 @@ Program Committee
 <div style="clear:both"></div>
 <br>
 
+<!--
 <img style="float:left;" width="400" src="https://LabZhengLiu.github.io/images/Paper-11.png"> 
 &nbsp;[11] **High Order Mesh Denoising via LP-L1 Minimization**
 <br>
@@ -325,9 +330,10 @@ Program Committee
 [[bib]](bibs/Liu2019High.md)**
 <div style="clear:both"></div>
 <br>
+-->
 
 <img style="float:left;" width="400" src="https://LabZhengLiu.github.io/images/Paper-10.png"> 
-&nbsp;[10] **A Novel Anisotropic Second Order Regularziation for Mesh Denoising**
+&nbsp;**A Novel Anisotropic Second Order Regularziation for Mesh Denoising**
 <br>
 &nbsp;**Zheng Liu**, Saishang Zhong, Zhong Xie, Weina Wang
 <br>
@@ -338,6 +344,7 @@ Program Committee
 <div style="clear:both"></div>
 <br>
 
+<!--
 <img style="float:left;" width="400" src="https://LabZhengLiu.github.io/images/Paper-9.png"> 
 &nbsp;[9] **Robust Mesh Denoising via Triple Sparsity**
 <br>
@@ -348,9 +355,10 @@ Program Committee
 [[bib]](bibs/Zhong2019Robust.md)**
 <div style="clear:both"></div>
 <br>
+-->
 
 <img style="float:left;" width="400" src="https://LabZhengLiu.github.io/images/Paper-8.png"> 
-&nbsp;[8] **Triangulated Surface Denoising using High Order Regularization with Dynamic &nbsp;Weights**
+&nbsp;**Triangulated Surface Denoising using High Order Regularization with Dynamic &nbsp;Weights**
 <br>
 &nbsp;**Zheng Liu**, Rongjie Lai, Huayan Zhang, Chunlin Wu
 <br>
@@ -361,6 +369,7 @@ Program Committee
 <div style="clear:both"></div>
 <br>
 
+<!--
 <img style="float:left;" width="400" src="https://LabZhengLiu.github.io/images/Paper-7.png"> 
 &nbsp;[7] **Mesh Denoising via Total Variation and Weighted Laplacian Regularizations**
 <br>
@@ -382,9 +391,10 @@ Program Committee
 <br>&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(CADCG17)基于条件迭代更新随机森林的非约束人脸特征点精确定位.pdf)**
 <div style="clear:both"></div>
 <br>
+-->
 
 <img style="float:left;" width="400" src="https://LabZhengLiu.github.io/images/Paper-5.png"> 
-&nbsp;[5] **On Geodesic Curvature Flow with Level Set Formulation Over Triangulated &nbsp;Surfaces**
+&nbsp;**On Geodesic Curvature Flow with Level Set Formulation Over Triangulated &nbsp;Surfaces**
 <br>
 &nbsp;**Zheng Liu**, Huayan Zhang and Chunlin Wu
 <br>
@@ -395,7 +405,7 @@ Program Committee
 <br>
 
 <img style="float:left;" width="400" src="https://LabZhengLiu.github.io/images/Paper-4.png"> 
-&nbsp; **Illumination Decomposition for Photograph with Multiple Light Sources**
+&nbsp;**Illumination Decomposition for Photograph with Multiple Light Sources**
 <br>
 &nbsp;Ling Zhang, Qingan Yan, **Zheng Liu**, Hua Zou, Chunxia Xiao
 <br>
