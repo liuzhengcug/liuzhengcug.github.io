@@ -69,7 +69,7 @@ Program Committee
 : Chinagraph 2020; GMP 2021-25; GDC 2021-25; PG 2024-25.
 </font>
 
-# Selected publications / A full list of my publications is available on [[Google Scholar]](https://scholar.google.com/citations?user=_jtNrOUAAAAJ&hl=zh-CN) [[Researchgate]](https://www.researchgate.net/profile/Zheng_Liu52)
+# Selected publications / Full list of publications [[Google Scholar]](https://scholar.google.com/citations?user=_jtNrOUAAAAJ&hl=zh-CN) [[Researchgate]](https://www.researchgate.net/profile/Zheng_Liu52)
 
 
 <img style="float:left;" width="400" src="images/paper-31.jpg"> 
