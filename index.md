@@ -30,8 +30,8 @@ China University of Geosciences (Wuhan),
 # Latest News
 - <font size="4" color="red">2025: One paper was accepted by TVCG, another by TMM.</font>
 - <font size="4" color="red">2024: One paper was accepted by AAAI.</font>
-- <font size="4" color="red">2023: One paper is accepted by IEEE TVCG, another by CVPR.</font>
-- <font size="4" color="red">2021: One paper is accepted by IEEE TVCG.</font>
+- <font size="4" color="red">2023: One paper was accepted by IEEE TVCG, another by CVPR.</font>
+- <font size="4" color="red">2021: One paper was accepted by IEEE TVCG.</font>
 
 # Research Interests
 <font size="4">
@@ -61,7 +61,7 @@ Paper reviewer
 </strong>
 </font>
 <font size="4">
-: ACM Transactions on Graphics (TOG), IEEE Transactions on Visualization and Computer Graphics (TVCG), IEEE Transactions on Multimedia (TMM), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), Computer-Aided Design (CAD), Computer Vision and Image Understanding, Computer Graphics Forum (CGF), Computer Aided Geometric Design (CAGD), Visual Computer, Computer & Graphics, IEEE Computer Graphics and Applications
+: ACM Transactions on Graphics (TOG), IEEE Transactions on Visualization and Computer Graphics (TVCG), IEEE Transactions on Multimedia (TMM), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), Computer-Aided Design (CAD), Computer Aided Geometric Design (CAGD), Computer Vision and Image Understanding, Computer Graphics Forum (CGF),  Visual Computer, Computer & Graphics, IEEE Computer Graphics and Applications
 </font>
 <br>
 <font size="4">
