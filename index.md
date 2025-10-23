@@ -75,6 +75,19 @@ Program Committee
 
 # Selected Publications [[Google Scholar]](https://scholar.google.com/citations?user=_jtNrOUAAAAJ&hl=zh-CN) [[Researchgate]](https://www.researchgate.net/profile/Zheng_Liu52)
 
+
+<img style="float:left;" width="400" src="images/paper-30.jpg"> 
+&nbsp;[29] **Deterministic Point Cloud Diffusion for Denoising**
+<br>
+&nbsp;  Zheng Liu, Zhenyu Huang, Maodong Pan, Ying He
+<br>
+&nbsp;***IEEE Transactions on Visualization and Computer Graphics***, 2025.
+<br>
+&nbsp;**[[paper]](https://liuzhengcug.github.io/papers/Deterministic Point Cloud Diffusion for Denoising.pdf)
+[[code]](https://github.com/huangzygiti/DPCD)**
+<div style="clear:both"></div>
+<br>
+
 <img style="float:left;" width="400" src="images/paper-29.jpg"> 
 &nbsp;[29] **You Should Learn to Stop Denoising on Point Clouds in Advance**
 <br>
