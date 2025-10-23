@@ -78,6 +78,7 @@ Program Committee
 &nbsp;  **Zheng Liu**, Jianjun Zhang, Ming Zhang, Runze Ke, Chengcheng Yu, Ligang Liu
 <br>
 &nbsp;***IEEE Transactions on Multimedia***, 2025.
+<div style="clear:both"></div>
 <br>
 
 <img style="float:left;" width="400" src="images/paper-30.jpg"> 
