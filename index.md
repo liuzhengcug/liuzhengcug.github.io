@@ -360,7 +360,6 @@ Program Committee
 <div style="clear:both"></div>
 <br>
 
-<!--
 <img style="float:left;" width="400" src="https://LabZhengLiu.github.io/images/Paper-7.png"> 
 &nbsp;[7] **Mesh Denoising via Total Variation and Weighted Laplacian Regularizations**
 <br>
@@ -382,7 +381,6 @@ Program Committee
 <br>&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(CADCG17)基于条件迭代更新随机森林的非约束人脸特征点精确定位.pdf)**
 <div style="clear:both"></div>
 <br>
--->
 
 <img style="float:left;" width="400" src="https://LabZhengLiu.github.io/images/Paper-5.png"> 
 &nbsp;[5] **On Geodesic Curvature Flow with Level Set Formulation Over Triangulated &nbsp;Surfaces**
@@ -405,7 +403,6 @@ Program Committee
 <div style="clear:both"></div>
 <br>
 
-<!--
 <img style="float:left;" width="400" src="https://LabZhengLiu.github.io/images/Paper-3.png"> 
 &nbsp;[3] **A New Two-stage Mesh Surface Segmentation Method**
 <br>
@@ -435,6 +432,5 @@ Program Committee
 <br>&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(ZJUS14)Scale-aware%20shape%20manipulation.pdf)**
 <div style="clear:both"></div>
 <br>
--->
 
 <a href="https://clustrmaps.com/site/1bfjx"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=nd25JQV2Xo7X5ehhxwuz53en6W0vWJggd1-2efLHzz0&cl=ffffff" /></a>
