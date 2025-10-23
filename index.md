@@ -396,7 +396,7 @@ Program Committee
 <br>
 
 <img style="float:left;" width="400" src="https://LabZhengLiu.github.io/images/Paper-4.png"> 
-&nbsp;[4] **Illumination Decomposition for Photograph with Multiple Light Sources**
+&nbsp; **Illumination Decomposition for Photograph with Multiple Light Sources**
 <br>
 &nbsp;Ling Zhang, Qingan Yan, **Zheng Liu**, Hua Zou, Chunxia Xiao
 <br>
