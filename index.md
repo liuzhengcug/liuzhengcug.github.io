@@ -78,10 +78,6 @@ Program Committee
 &nbsp;  **Zheng Liu**, Jianjun Zhang, Ming Zhang, Runze Ke, Chengcheng Yu, Ligang Liu
 <br>
 &nbsp;***IEEE Transactions on Multimedia***, 2025.
-<br>
-&nbsp;**[[paper]](https://liuzhengcug.github.io/papers/Unsupervised Point Cloud Reconstruction via Recurrent Multi-step Moving Strategy.pdf)**
-<div style="clear:both"></div>
-<br>
 
 <img style="float:left;" width="400" src="images/paper-30.jpg"> 
 &nbsp;[30] **Deterministic Point Cloud Diffusion for Denoising**
