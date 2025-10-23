@@ -35,20 +35,16 @@ China University of Geosciences (Wuhan),
 
 # Research Interests
 <font size="4">
-My research interests fall into the areas of geometric modeling, computer graphics, 3D vision, 3D deep learning, and digital twins.
-More specifically, I am interested in the following topics:
+My research interests fall into the areas of geometric modeling, computer graphics, 3D vision, 3D deep learning, and digital twins. In particular, I am interested in:
 <ul>
 <li>
-Geometry Processing: Mesh denoising, Point cloud filtering/reconstruction, Registration, Mesh/Point cloud segmentation.
+Foundational point-cloud processing, including denoising, normal estimation, sampling, registration, completion, and feature detection.
 </li>
 <li>
-Image Processing: Image denoising, Image segmentation, Despeckling.
+Implicit field learning for point clouds and subsequent surface meshing.
 </li>
 <li>
-3D Deep Learning: Indoor scene detection/segmentation/labeling.
-</li>
-<li>
-Numerical Optimization: Sparse optimization, Low rank optimization.
+Scene understanding and instance-level reconstruction.
 </li>
 </ul>
 </font>
