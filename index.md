@@ -28,14 +28,14 @@ China University of Geosciences (Wuhan),
 <div style="clear:both"></div>
 
 # Latest News
-- <font size="4" color="red">2024.12: One paper is accepted by AAAI.</font>
-- <font size="4" color="red">2023.07: One paper is accepted by IEEE TVCG.</font>
-- <font size="4" color="red">2023.04: One paper is accepted by CVPR.</font>
-- <font size="4" color="red">2021.06: One paper is accepted by IEEE TVCG.</font>
+- <font size="4" color="red">2025: One paper was accepted by TVCG, another by TMM.</font>
+- <font size="4" color="red">2024: One paper was accepted by AAAI.</font>
+- <font size="4" color="red">2023: One paper is accepted by IEEE TVCG, another by CVPR.</font>
+- <font size="4" color="red">2021: One paper is accepted by IEEE TVCG.</font>
 
 # Research Interests
 <font size="4">
-My research interests fall into the areas of computer graphics, 3D vision, deep learning, and digital twins.
+My research interests fall into the areas of geometric modeling, computer graphics, 3D vision, 3D deep learning, and digital twins.
 More specifically, I am interested in the following topics:
 <ul>
 <li>
@@ -61,7 +61,7 @@ Paper reviewer
 </strong>
 </font>
 <font size="4">
-: IEEE Transactions on Visualization and Computer Graphics (TVCG), IEEE Transactions on Multimedia (TMM), Computer-Aided Design (CAD), Computer Vision and Image Understanding, Computer Graphics Forum (CGF), Computer Aided Geometric Design (CAGD), Visual Computer, Computer & Graphics, IEEE Computer Graphics and Applications, Journal of Computational and Applied Mathematics (JCAM), IEEE Access
+: ACM Transactions on Graphics (TOG), IEEE Transactions on Visualization and Computer Graphics (TVCG), IEEE Transactions on Multimedia (TMM), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), Computer-Aided Design (CAD), Computer Vision and Image Understanding, Computer Graphics Forum (CGF), Computer Aided Geometric Design (CAGD), Visual Computer, Computer & Graphics, IEEE Computer Graphics and Applications
 </font>
 <br>
 <font size="4">
@@ -70,7 +70,7 @@ Program Committee
 </strong>
 </font>
 <font size="4">
-: Chinagraph 2020; Geometric Modeling and Processing (GMP) 2021-24; GDC 2021-24; PG 2024.
+: Chinagraph 2020; GMP 2021-25; GDC 2021-25; PG 2024-25.
 </font>
 
 # Selected Publications [[Google Scholar]](https://scholar.google.com/citations?user=_jtNrOUAAAAJ&hl=zh-CN) [[Researchgate]](https://www.researchgate.net/profile/Zheng_Liu52)
@@ -83,7 +83,7 @@ Program Committee
 <br>
 &nbsp;***IEEE Transactions on Visualization and Computer Graphics***, 2025.
 <br>
-&nbsp;**[[paper]](https://liuzhengcug.github.io/papers/25 TVCG - Deterministic Point Cloud Diffusion for Denoising.pdf)
+&nbsp;**[[paper]](https://liuzhengcug.github.io/papers/Deterministic Point Cloud Diffusion for Denoising.pdf)
 [[code]](https://github.com/huangzygiti/DPCD)**
 <div style="clear:both"></div>
 <br>
