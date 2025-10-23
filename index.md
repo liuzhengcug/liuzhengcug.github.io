@@ -77,9 +77,9 @@ Program Committee
 
 
 <img style="float:left;" width="400" src="images/paper-30.jpg"> 
-&nbsp;[29] **Deterministic Point Cloud Diffusion for Denoising**
+&nbsp;[30] **Deterministic Point Cloud Diffusion for Denoising**
 <br>
-&nbsp;  Zheng Liu, Zhenyu Huang, Maodong Pan, Ying He
+&nbsp;  **Zheng Liu**, Zhenyu Huang, Maodong Pan, Ying He
 <br>
 &nbsp;***IEEE Transactions on Visualization and Computer Graphics***, 2025.
 <br>
