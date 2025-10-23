@@ -83,7 +83,7 @@ Program Committee
 <br>
 &nbsp;***IEEE Transactions on Visualization and Computer Graphics***, 2025.
 <br>
-&nbsp;**[[paper]](https://liuzhengcug.github.io/papers/Deterministic Point Cloud Diffusion for Denoising.pdf)
+&nbsp;**[[paper]](https://liuzhengcug.github.io/papers/25 TVCG - Deterministic Point Cloud Diffusion for Denoising.pdf)
 [[code]](https://github.com/huangzygiti/DPCD)**
 <div style="clear:both"></div>
 <br>
