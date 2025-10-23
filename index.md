@@ -73,7 +73,7 @@ Program Committee
 
 
 <img style="float:left;" width="400" src="images/paper-31.jpg"> 
-&nbsp;[31] **Unsupervised Point Cloud Reconstruction via Recurrent Multi-step Moving Strategy**
+&nbsp;[10] **Unsupervised Point Cloud Reconstruction via Recurrent Multi-step Moving Strategy**
 <br>
 &nbsp;  **Zheng Liu**, Jianjun Zhang, Ming Zhang, Runze Ke, Chengcheng Yu, Ligang Liu
 <br>
