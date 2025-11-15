@@ -28,7 +28,7 @@ China University of Geosciences (Wuhan),
 <div style="clear:both"></div>
 
 # Latest News
-- <font size="4" color="red">2025: One paper was accepted by TVCG, one by TMM, and another by AAAI.</font>
+- <font size="4" color="red">2025: One paper was accepted by IEEE TVCG, one by IEEE TMM, and another by AAAI.</font>
 - <font size="4" color="red">2024: One paper was accepted by AAAI.</font>
 - <font size="4" color="red">2023: One paper was accepted by IEEE TVCG, another by CVPR.</font>
 - <font size="4" color="red">2021: One paper was accepted by IEEE TVCG.</font>
@@ -72,7 +72,7 @@ Program Committee
 # Selected publications / Full list of publications [[Google Scholar]](https://scholar.google.com/citations?user=_jtNrOUAAAAJ&hl=zh-CN) [[Researchgate]](https://www.researchgate.net/profile/Zheng_Liu52)
 
 
-<img style="float:left;" width="400" src="images/paper-31.jpg"> 
+<img style="float:left;" width="400" src="images/paper-32.jpg"> 
 &nbsp;**Guiding Point Cloud Denoising with Learned Structural Priors**
 <br>
 &nbsp;  Chuchen Guo, **Zheng Liu<sup>★</sup>**, Ying He
