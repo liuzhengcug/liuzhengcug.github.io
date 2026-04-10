@@ -72,6 +72,17 @@ Program Committee
 # Selected publications / Full list of publications [[Google Scholar]](https://scholar.google.com/citations?user=_jtNrOUAAAAJ&hl=zh-CN) [[Researchgate]](https://www.researchgate.net/profile/Zheng_Liu52)
 
 
+<img style="float:left;" width="400" src="images/paper-34.png"> 
+&nbsp;**Routing on Demand: DSNet for Efficient Progressive Point Cloud Denoising**
+<br>
+&nbsp;  Xiaoqian Cheng, Dong Xiao, Husen Li, **Zheng Liu**, Renjie Chen
+<br>
+&nbsp;***CVPR***, 2026.
+<br>
+&nbsp;**[[paper]](https://liuzhengcug.github.io/papers/26 CVPR - DSNet.pdf)**
+<div style="clear:both"></div>
+<br>
+
 <img style="float:left;" width="400" src="images/paper-33.png"> 
 &nbsp;**Bridging geometry and semantics for 3D point cloud instance segmentation**
 <br>
