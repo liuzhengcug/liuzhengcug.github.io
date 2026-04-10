@@ -72,6 +72,17 @@ Program Committee
 # Selected publications / Full list of publications [[Google Scholar]](https://scholar.google.com/citations?user=_jtNrOUAAAAJ&hl=zh-CN) [[Researchgate]](https://www.researchgate.net/profile/Zheng_Liu52)
 
 
+<img style="float:left;" width="400" src="images/paper-33.png"> 
+&nbsp;**Bridging geometry and semantics for 3D point cloud instance segmentation**
+<br>
+&nbsp;  Huixiao Tian, Zhipeng Jiang, Shimin Song, Saishang Zhong, **Zheng Liu**, Ying He
+<br>
+&nbsp;***Computational Visual Media***, 2026.
+<br>
+&nbsp;**[[paper]](https://liuzhengcug.github.io/papers/26 CVM - Bridging geometry and semantics for 3D point cloud instance segmentation.pdf)
+<div style="clear:both"></div>
+<br>
+
 <img style="float:left;" width="400" src="images/paper-32.jpg"> 
 &nbsp;**Guiding Point Cloud Denoising with Learned Structural Priors**
 <br>
