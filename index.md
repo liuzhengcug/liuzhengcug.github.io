@@ -90,8 +90,7 @@ Program Committee
 <br>
 &nbsp;***Computational Visual Media***, 2026.
 <br>
-&nbsp;**[[paper]](https://liuzhengcug.github.io/papers/26 CVM - Bridging geometry and semantics for 3D point cloud instance segmentation.pdf)
-[[code]](https://github.com/tianhuixiao12138/BGS)**
+&nbsp;**[[paper]](https://liuzhengcug.github.io/papers/26 CVM - Bridging geometry and semantics for 3D point cloud instance segmentation.pdf)**
 <div style="clear:both"></div>
 <br>
 
