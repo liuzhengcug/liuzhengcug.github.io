@@ -83,14 +83,15 @@ Program Committee
 <div style="clear:both"></div>
 <br>
 
-<img style="float:left;" width="400" src="images/paper-33.png"> 
+<img style="float:left;" width="400" src="images/paper-33.jpg"> 
 &nbsp;**Bridging geometry and semantics for 3D point cloud instance segmentation**
 <br>
 &nbsp;  Huixiao Tian, Zhipeng Jiang, Shimin Song, Saishang Zhong, **Zheng Liu**, Ying He
 <br>
 &nbsp;***Computational Visual Media***, 2026.
 <br>
-&nbsp;**[[paper]](https://liuzhengcug.github.io/papers/26 CVM - Bridging geometry and semantics for 3D point cloud instance segmentation.pdf)**
+&nbsp;**[[paper]](https://liuzhengcug.github.io/papers/26 CVM - Bridging geometry and semantics for 3D point cloud instance segmentation.pdf)
+[[code]](https://github.com/tianhuixiao12138/BGS)**
 <div style="clear:both"></div>
 <br>
 
