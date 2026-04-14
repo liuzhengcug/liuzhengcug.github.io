@@ -86,7 +86,7 @@ Program Committee
 <img style="float:left;" width="400" src="images/paper-33.jpg"> 
 &nbsp;**Bridging geometry and semantics for 3D point cloud instance segmentation**
 <br>
-&nbsp;  Huixiao Tian, Zhipeng Jiang, Shimin Song, Saishang Zhong, **Zheng Liu**, Ying He
+&nbsp;  Huixiao Tian, Zhipeng Jiang, Shimin Song, Saishang Zhong, **Zheng Liu<sup>★</sup>**, Ying He
 <br>
 &nbsp;***Computational Visual Media***, 2026.
 <br>
