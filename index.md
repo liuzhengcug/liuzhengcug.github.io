@@ -28,6 +28,7 @@ China University of Geosciences (Wuhan),
 <div style="clear:both"></div>
 
 # Latest News
+- <font size="4" color="red">2026: One paper was accepted by IEEE CVPR, one by CVM.</font>
 - <font size="4" color="red">2025: One paper was accepted by IEEE TVCG, one by IEEE TMM, and another by AAAI.</font>
 - <font size="4" color="red">2024: One paper was accepted by AAAI.</font>
 - <font size="4" color="red">2023: One paper was accepted by IEEE TVCG, another by CVPR.</font>
@@ -66,11 +67,22 @@ Program Committee
 </strong>
 </font>
 <font size="4">
-: Chinagraph 2020; GMP 2021-25; GDC 2021-25; PG 2024-25.
+: Chinagraph 2020; GMP 2021-26; GDC 2021-26; PG 2024-26.
 </font>
 
 # Selected publications / Full list of publications [[Google Scholar]](https://scholar.google.com/citations?user=_jtNrOUAAAAJ&hl=zh-CN) [[Researchgate]](https://www.researchgate.net/profile/Zheng_Liu52)
 
+
+<img style="float:left;" width="400" src="images/paper-34.png"> 
+&nbsp;**PointInDI: Inversion by Direct Iteration for High-Fidelity Point Cloud Denoising**
+<br>
+&nbsp;  Xiaoqian Cheng, Dong Xiao, Husen Li, **Zheng Liu**, Renjie Chen
+<br>
+&nbsp;***Computer-Aided Desgin (Proc. SPM)***, 2026.
+<br>
+&nbsp;**[[paper]](https://liuzhengcug.github.io/papers/26 CVPR - DSNet.pdf)**
+<div style="clear:both"></div>
+<br>
 
 <img style="float:left;" width="400" src="images/paper-34.png"> 
 &nbsp;**Routing on Demand: DSNet for Efficient Progressive Point Cloud Denoising**
